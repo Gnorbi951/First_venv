@@ -24,8 +24,9 @@ Vagrant.configure("2") do |config|
   end
 
   #Provision Settings
-  # config.vm.provision "shell", inline: <<-SHELL
+  #  config.vm.provision "shell", inline: <<-SHELL
   #   apt-get update
   #   apt-get install -y apache2
   # SHELL
+  config.vm.provision "shell", path "provision.sh"
 end
