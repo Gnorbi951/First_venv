@@ -1,1 +1,1 @@
-{"name":"ubuntu/trusty64","version":"20190514.0.0","provider":"virtualbox","directory":"boxes/ubuntu-VAGRANTSLASH-trusty64/20190514.0.0/virtualbox"}
+{"name":"generic/debian10","version":"2.0.6","provider":"virtualbox","directory":"boxes/generic-VAGRANTSLASH-debian10/2.0.6/virtualbox"}
