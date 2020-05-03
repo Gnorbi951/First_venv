@@ -1,0 +1,5 @@
+config.vm.box - Operating system
+config.vm.provider -virtualbox
+config.vm.network - how hosts see the box
+config.vm.synced_folder - access files
+config.vm.provision - what we setup
